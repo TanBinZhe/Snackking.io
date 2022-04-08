@@ -1,1 +1,1 @@
-# Snackking.io
+# snackking.io
