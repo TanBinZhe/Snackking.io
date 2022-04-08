@@ -1,1 +1,1 @@
-# snackking.io
+# snackking.github.io
