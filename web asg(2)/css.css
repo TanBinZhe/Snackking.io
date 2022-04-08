@@ -1,0 +1,103 @@
+* {box-sizing: border-box;}
+body{background-image: url(images/background\ dark.jpg);background-repeat: repeat;background-size: 100%;}
+
+h1{text-align: center;
+    font-family: sans-serif;
+    font-style:italic;
+    
+    color: pink;/**border: 3px solid;**/}
+
+a{text-decoration: none;font-weight: bold;}
+
+/* nav a:link{color: rgb(151, 34, 194);}
+
+nav a:visited{color: rgb(231, 231, 71);} */
+
+/* ul{list-style-type: none;text-align: right;} */
+
+nav ul li{display: inline;
+    
+    padding-right: 40px;} 
+
+footer{color: white;
+    border-top: solid black 2px;
+    background-color: rgb(192, 169, 38);
+    text-align: center;
+    font-style: italic;}
+
+/**iframe{padding-left: 50px;}**/
+
+header{background-color: #f4bc55;
+    height: 175px;
+    background-image: url(images/company\ logo.png);
+    background-repeat: no-repeat
+    ;font-size: 20px;
+    text-align: center;
+}
+
+#paddingtop{padding-top: 40px}
+
+#wrapper {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fefec2;
+    min-width: 900px;
+    max-width: 1280px;
+    box-shadow: 3px 3px 3px #8b8a88;}
+
+h3{padding-left: 20px;
+    border-top: solid black 1px;
+    border-bottom: solid black 1px;
+    background-color: #d2b48c;
+    margin-bottom: 0px;}
+
+#why{background-image: url(images/why2.png);
+    height: 650px;
+    width: 1000px ;
+    background-repeat: no-repeat;
+}
+
+nav {
+    padding: 40px 0 0 240px;
+    font-size: 160%;font-weight: bold
+}
+
+#margin {
+    margin: 15px;
+}
+
+#smenu{
+    float: left;
+    width: 225px;
+    background-color: #333333;
+    line-height: 2em;
+    font-size: 150%;
+    padding-left: 40px;
+}
+#bmenu{
+    float: left;
+    width: 225px;
+    background-color: #333333;
+    font-size: 150%;
+    line-height: 2em;
+}
+
+a:link {color: rgb(151, 34, 194)}
+a:visited {color: rgb(151, 34, 194)}
+a:hover {color: blue}
+
+div ul li{list-style-type: none;}
+
+#mmain{margin-left: 200px}
+
+td img {
+    width: 250px;
+    height: 300px;
+    margin: 20px;
+}
+
+#desc {
+    text-align: center;
+    max-width: 200px;
+}
